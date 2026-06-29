@@ -1,6 +1,10 @@
 # neetmax2000
 Remote control your PC from your Android phone, through the magic of Termux and ncurses!
 
+# Note
+
+This was written for X11, remote controls are done through `xdotool`. For X11, `xhost +local:$USER` should be run each session, so consider adding to your startup configs.
+
 # Compilation
 
 `gcc sshremote.c -lncurses -o sshremote`
