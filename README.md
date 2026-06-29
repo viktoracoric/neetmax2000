@@ -13,8 +13,9 @@ This was written for X11, remote controls are done through `xdotool`. For X11, `
 
 `./sshremote user@host -p port -i priv_ssh_key`
 
-| Tap                          | Left click                                         |
+| Action                       | Reaction                                           |
 |------------------------------|----------------------------------------------------|
+| Tap                          | Left click                                         |
 | Triple Tap                   | Right click                                        |
 | Swipe up / down              | Scroll                                             |
 | Double tap                   | Change direction of scroll (horizontal / vertical) |
