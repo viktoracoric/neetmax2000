@@ -19,6 +19,6 @@ Remote control your PC from your Android phone, through the magic of Termux and 
 | c                            | send commands (e.g. loginctl poweroff)             |
 | q                            | quit                                               |
 
-Project started as a thought experiment, inspired by [Stefan Sundin's SSH Remote](https://github.com/stefansundin/SSHRemote).
+Project started as a thought experiment, inspired by [Stefan Sundin's SSH Remote](https://github.com/stefansundin/SSHRemote), an Android app (which is the best Android remote controller app I've seen).
 
 Released under GPLv3, I am very curious how people will extend this idea, trying to bypass Termux terminal limitations was very fun!
